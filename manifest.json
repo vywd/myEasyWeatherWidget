@@ -1,0 +1,11 @@
+{
+    "manifest_version": 2,
+    "name": "Easy Weather Widjet",
+    "version": "0.0.1",
+    "description": "Easy Weather Widjet",
+    "author": "vywebdev@gmail.com",
+    "action": {
+        "default_title": "Easy Weather Widjet",
+        "default_popup": "index.html"
+      }  
+}
