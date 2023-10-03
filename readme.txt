@@ -5,5 +5,5 @@
 
 + show weather
 + add to localstorage and quit from question forms 1 et.
-- обновлять каждый час
-- динамические иконки
+- hourly refresh
+- dynamic icons
